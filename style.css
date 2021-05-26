@@ -1,0 +1,27 @@
+.heading{
+        font-size: 35px;
+    width:100%;
+    box-shadow: 10px 10px  10px teal;
+    height: 100px;
+}
+
+.heading_div:hover{
+    color: white;
+}
+img{
+    margin-top: 20px;
+}
+.heading_div{
+    background-color:rgb(21, 96, 189);
+    color: white;
+    float: none;
+    padding:10px;
+    box-shadow:10px 10px 10px rgb(15, 66, 129);
+    font-size: 20px;
+    width: 600px;
+    height:80px;
+    text-align: center;
+}
+body{
+    background-size: cover;
+}
